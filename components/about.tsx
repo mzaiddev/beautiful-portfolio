@@ -71,7 +71,7 @@ export default function About() {
               <div>
                 <h4 className="font-bold">Email:</h4>
                 <p className="text-muted-foreground">
-                  mohammadISRAR2033@gmail.com
+                  mohammadisrar2033@gmail.com
                 </p>
               </div>
               <div>
