@@ -40,7 +40,7 @@ export default function Hero() {
           </h2>
           <p className="text-lg mb-10 text-muted-foreground">
             I build exceptional and scalable web applications using React,
-            Next.js, and modern JavaScript frameworks with 4 years of
+            Next.js, and modern JavaScript frameworks with 6 years of
             professional experience.
           </p>
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
